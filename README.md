@@ -1,0 +1,1 @@
+The survey sentiment analysis file is a sample of a python code that I created during my time at my last company. All details and identifiable information have been redacted and commentary has been changed. 
